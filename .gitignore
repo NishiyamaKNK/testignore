@@ -1,0 +1,4 @@
+# 指定のディレクトリを非管理対象とする
+/obj
+/Properties
+/wwwroot
